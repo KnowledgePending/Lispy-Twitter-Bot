@@ -13,8 +13,10 @@
 🐍🤖 Lispy Twitter Bot executes the lisp code you tweet at it
 
 
-This is part of a quick toy project I created that would execute lisp code that was tweet at a bot.
-The full project contains a UI along with a REST API that can recieve and store the tweets in a MongoDB database. This is located elsewhere.
+This is part of a quick toy project I created that would execute lisp code that was tweet at a bot.  
+
+The full project contains a UI along with a REST API that can recieve and store the tweets in a MongoDB database.  
+This is located elsewhere.
 
 Simply fill in the config variables and set the target 
 
@@ -22,7 +24,7 @@ If you are interested in this idea, I would recommend that you check out the [BB
 
 ## Dependencies
 This project is dependent on the following dependencies:
-* [little lisp](https://github.com/maryrosecook/littlelisp) by [Mary Rose Cook]((https://github.com/maryrosecook/)
+* [little lisp](https://github.com/maryrosecook/littlelisp) by [Mary Rose Cook](https://github.com/maryrosecook/)
 * [Twit](https://github.com/ttezel/twit) by [Tolga Tezel](https://github.com/ttezel/)
 
 ## Installation
