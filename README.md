@@ -18,7 +18,7 @@ This is part of a quick toy project I created that would execute lisp code that 
 The full project contains a UI along with a REST API that can recieve and store the tweets in a MongoDB database.  
 This is located elsewhere.
 
-Simply fill in the config variables and set the target 
+
 
 If you are interested in this idea, I would recommend that you check out the [BBC Micro 🦉 bot](https://twitter.com/bbcmicrobot) by [Dominic Pajak](https://github.com/8bitkick) which is similar in concept and built upon the BBC Micro Emulator created by [Matt Godbolt](https://github.com/mattgodbolt). It executes code written in BBC Basic and even provides GIF animations of the output.
 
@@ -33,6 +33,7 @@ npm install
 ```
 
 ## Run 
+Simply fill in the config variables and set the target username
 ```
 npm start
 ```
